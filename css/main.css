@@ -27,7 +27,7 @@ body {
 }
 
 h1 {
-  font-family: Bevan, sans-serif;
+  font-family: Bevan, serif;
   color: #fff;
   margin: 0;
 }
@@ -51,7 +51,7 @@ ul {
   display: inline-block;
   list-style-type: none;
   padding: .6em .5em .75em;
-  border-radius: 10px;
+  border-radius: 5px;
   background-color: #713837;
   color: #fff;
   font-family: sans-serif;
